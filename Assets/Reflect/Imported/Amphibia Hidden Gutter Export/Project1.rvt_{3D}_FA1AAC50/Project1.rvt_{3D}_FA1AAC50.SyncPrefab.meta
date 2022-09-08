@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: c9b638e193bdca14ca3a65b84de01c93
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f488ea0f1e5ec1f45a401a0e4b986db1, type: 3}
+  materialRemaps:
+  - syncMaterialName: Wood - Dimensional Lumber_[316151]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Gypsum Wall Board_[423]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metsa_Wood-Thermowood-Vertical_[316152]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Default Wall_[24]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metsa Wood - Cross Laminated Timber (CLT) Horizont...
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Cabinets_[316453]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Cabinets - Panel_[316452]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Cabinets - Handles_[316451]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Lit
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Bamboo_[348372]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Default_[23]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metsa Wood - Cross Laminated Timber (CLT) Vertical...
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Wood - Birch_[316418]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Paint Finish - Ivory, Glossy_[316810]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Chrome_[316809]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Laminate - Marble_[316322_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Textile - White_[316443_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Wood - Birch_[316418_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Cabinets_[316453_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metsa_Wood-Thermowood-Horizontal_[316278]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Origin Global - Aluminium - RAL 7016 - Anthracite ...
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Origin Global - Glass_[316400_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Window Frame_[51026_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass_[26_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Cabinets - Handles_[316451_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Paint Finish - Ivory, Glossy_[316810_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Chrome_[316809_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Plastic - Black_[316294_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Porcelain_[316169_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Stainless Steel_[316331_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Architrave_[48283_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Handle_[21208_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Panel_[10429_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Frame_Mullion (1)_[30821_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Architrave_[48283]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Frame_Mullion_[21116_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Stainless Steel, Polished_[316307_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Plastic - Gray_[316293_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Glazing_[316314_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Air_[418]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Stainless Steel_[316331]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Paint Finish - Dark Gray, Matte_[316330]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Stainless_[316787_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Porcelain_[316169]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Chrome Polished_[316167]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Chrome Polished_[316167_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Wood - Walnut, Natural_[316168_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Origin Global - Stainless Steel - Semi Polished_[316374]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Oriented Strand Board_[316403]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Wood - Cherry_[316848]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Textile - Linen, Smooth_[316849]
+    remappedMaterial: {instanceID: 0}

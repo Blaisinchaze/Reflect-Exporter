@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6875669468203364294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4420707920832761373}
+  m_Layer: 0
+  m_Name: Ground Floor Ground Floor [333530](Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4420707920832761373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6875669468203364294}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2542558316308807702}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7922388737423814198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2542558316308807702}
+  - component: {fileID: 8515253636296940840}
+  m_Layer: 0
+  m_Name: Ground Floor Ground Floor [333530]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2542558316308807702
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7922388737423814198}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4420707920832761373}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8515253636296940840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7922388737423814198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Host Id
+    - Elevation from Level
+    - Moves With Nearby Elements
+    - Image
+    - Comments
+    - Mark
+    - Phase Created
+    - Phase Demolished
+    - View
+    - Source
+    - Type Image
+    - Keynote
+    - Model
+    - Manufacturer
+    - Type Comments
+    - URL
+    - Description
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Cost
+    - OmniClass Number
+    - OmniClass Title
+    - Code Name
+    m_Values:
+    - 333530
+    - Site
+    - Ground Floor
+    - Ground Floor
+    - Project1
+    - -1
+    - 0 mm
+    - No
+    - <None>
+    - 
+    - 
+    - New Construction
+    - None
+    - '{3D}'
+    - Project1_{3D}
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 0.00
+    - 
+    - 
+    - 

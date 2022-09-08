@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &885590017047137229
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3816127826646101544}
+  - component: {fileID: 3541775070376918924}
+  m_Layer: 0
+  m_Name: 38x38 642844 _ Glulam (2)_38x38 642844 [345053]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3816127826646101544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 885590017047137229}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4545555240711865}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3541775070376918924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 885590017047137229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Host Id
+    - Level
+    - Host
+    - Offset from Host
+    - Moves With Nearby Elements
+    - IfcGUID
+    - Image
+    - Volume
+    - Comments
+    - Structural Material
+    - Camber Size
+    - Number of studs
+    - Reference Level
+    - Mark
+    - NameOverride
+    - ObjectTypeOverride
+    - Reference
+    - IsExternal
+    - LoadBearing
+    - Tag
+    - Slope
+    - Span
+    - Phase Created
+    - Phase Demolished
+    - Rebar Cover - Top Face
+    - Rebar Cover - Bottom Face
+    - Rebar Cover - Other Faces
+    - View
+    - Source
+    - Material
+    - Section Shape
+    - Type Image
+    - Keynote
+    - Model
+    - Manufacturer
+    - Type Comments
+    - URL
+    - Description
+    - Section Name Key
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Fire Rating
+    - Cost
+    - OmniClass Number
+    - OmniClass Title
+    - Code Name
+    m_Values:
+    - 349056
+    - Structural Framing
+    - Glulam (2):38x38 642844
+    - Glulam (2):38x38 642844
+    - Project1
+    - -1
+    - Ground Floor (No Finish)
+    - 'Level : Ground Floor (No Finish)'
+    - 1800 mm
+    - No
+    - 3$sR8Y6ovFQOG8WGYZDwhr
+    - <None>
+    - "0.002 m\xB3"
+    - 
+    - <By Category>
+    - 
+    - 
+    - 
+    - 
+    - Glulam (2):38x38:486113
+    - Glulam (2):38x38
+    - 38x38
+    - No
+    - Yes
+    - 486113
+    - "0.00\xB0"
+    - 1284 mm
+    - New Construction
+    - None
+    - Rebar Cover 1 <25 mm>
+    - Rebar Cover 1 <25 mm>
+    - Rebar Cover 1 <25 mm>
+    - '{3D}'
+    - Project1_{3D}
+    - Wood - Dimensional Lumber
+    - Not Defined
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 0.00
+    - 
+    - 
+    - 
+--- !u!1 &1833433826893095797
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4545555240711865}
+  - component: {fileID: 1826981732441184289}
+  - component: {fileID: 3812448571669768668}
+  - component: {fileID: 6399004477546209079}
+  m_Layer: 0
+  m_Name: 38x38 642844 _ Glulam (2)_38x38 642844 [345053](Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4545555240711865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833433826893095797}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.606575, y: 0.038, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3816127826646101544}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1826981732441184289
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833433826893095797}
+  m_Mesh: {fileID: 4300000, guid: 42b9348b405c93c4c89a16979da856a9, type: 2}
+--- !u!23 &3812448571669768668
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833433826893095797}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 2808d5b173a211544a7dad201674a0d0, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6399004477546209079
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833433826893095797}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 42b9348b405c93c4c89a16979da856a9, type: 2}

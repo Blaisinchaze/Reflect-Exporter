@@ -1,0 +1,286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2003328335609224159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7292112594038372929}
+  - component: {fileID: 5276311068931051257}
+  m_Layer: 0
+  m_Name: Basic Wall Basic Wall_Wall-Ext_12.5Board_65.75Clb_...
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7292112594038372929
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2003328335609224159}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5531661914156268264}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5276311068931051257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2003328335609224159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Structural
+    - Enable Analytical Model
+    - Structural Usage
+    - Location Line
+    - IfcGUID
+    - Image
+    - Comments
+    - Mark
+    - NameOverride
+    - ObjectTypeOverride
+    - Roughness
+    - Reference
+    - ExtendToStructure
+    - IsExternal
+    - LoadBearing
+    - Tag
+    - Color
+    - BarCode
+    - SerialNumber
+    - Manufacturer
+    - ProductionYear
+    - Description
+    - Phase Created
+    - Phase Demolished
+    - Base Constraint
+    - Base Offset
+    - Base is Attached
+    - Base Extension Distance
+    - Top Constraint
+    - Unconnected Height
+    - Top Offset
+    - Top is Attached
+    - Top Extension Distance
+    - Room Bounding
+    - Length
+    - Area
+    - Volume
+    - Related to Mass
+    - View
+    - Source
+    - Structure
+    - Coarse Scale Fill Pattern
+    - Coarse Scale Fill Color
+    - Wrapping at Inserts
+    - Wrapping at Ends
+    - Width
+    - Type Image
+    - Keynote
+    - Model
+    - Type Comments
+    - URL
+    - Structural Material
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Fire Rating
+    - Cost
+    - Function
+    - ThermalTransmittance
+    - Heat Transfer Coefficient (U)
+    - Thermal Resistance (R)
+    - Thermal mass
+    - Absorptance
+    m_Values:
+    - 348656
+    - Walls
+    - Basic Wall
+    - Basic Wall:Wall-Ext_12.5Board_65.75Clb_140Mycelium_38Batten_21Larch C
+    - Project1
+    - No
+    - No
+    - Non-bearing
+    - Wall Centerline
+    - 0bOy3aaEHE7AepnUq8O7jg
+    - <None>
+    - 
+    - 
+    - Basic Wall:Wall-Ext_12.5Board_65.75Clb_140Mycelium_38Batten_21Larch C:354294
+    - Basic Wall:Wall-Ext_12.5Board_65.75Clb_140Mycelium_38Batten_21Larch C
+    - 914 mm
+    - Wall-Ext_12.5Board_65.75Clb_140Mycelium_38Batten_21Larch C
+    - Yes
+    - Yes
+    - No
+    - 354294
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - New Construction
+    - None
+    - Ground Floor (No Finish)
+    - 0 mm
+    - No
+    - 0 mm
+    - Unconnected
+    - 2434 mm
+    - 0 mm
+    - No
+    - 0 mm
+    - Yes
+    - 9758 mm
+    - "20.610 m\xB2"
+    - "6.500 m\xB3"
+    - No
+    - '{3D}'
+    - Project1_{3D}
+    - 
+    - 
+    - 
+    - Do not wrap
+    - None
+    - 315 mm
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - <By Category>
+    - 
+    - 
+    - 
+    - 
+    - 0.00
+    - Exterior
+    - "0.1338 W/(m\xB2\xB7K)"
+    - "0.1338 W/(m\xB2\xB7K)"
+    - "7.4759 (m\xB2\xB7K)/W"
+    - 1.96 kJ/K
+    - 0.1
+--- !u!1 &7001021367514587389
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5531661914156268264}
+  - component: {fileID: 6279307895183745235}
+  - component: {fileID: 61293264767089455}
+  - component: {fileID: 8900153292347332239}
+  m_Layer: 0
+  m_Name: Basic Wall Basic Wall_Wall-Ext_12.5Board_65.75Clb_...(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5531661914156268264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001021367514587389}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.6493087, y: 0, z: -4.3344173}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7292112594038372929}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6279307895183745235
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001021367514587389}
+  m_Mesh: {fileID: 4300000, guid: d5b65f620b0329541a3f464b8672a916, type: 2}
+--- !u!23 &61293264767089455
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001021367514587389}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 4d72a608547eaff469672d9625e1af9b, type: 2}
+  - {fileID: 2100000, guid: d114f9d517961fb4291e6ea2809b3324, type: 2}
+  - {fileID: 2100000, guid: 91a6700e96ba7e143a043558bc5bcedf, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8900153292347332239
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7001021367514587389}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: d5b65f620b0329541a3f464b8672a916, type: 2}

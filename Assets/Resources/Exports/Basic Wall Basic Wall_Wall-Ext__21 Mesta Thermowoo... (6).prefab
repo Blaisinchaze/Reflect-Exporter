@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3037649791540163568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7005634175400579363}
+  - component: {fileID: 8308306291173538400}
+  m_Layer: 0
+  m_Name: Basic Wall Basic Wall_Wall-Ext__21 Mesta Thermowoo... (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7005634175400579363
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3037649791540163568}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7673379549265212029}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8308306291173538400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3037649791540163568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Structural
+    - Enable Analytical Model
+    - Structural Usage
+    - Location Line
+    - IfcGUID
+    - Image
+    - Comments
+    - Mark
+    - NameOverride
+    - ObjectTypeOverride
+    - Roughness
+    - Reference
+    - ExtendToStructure
+    - IsExternal
+    - LoadBearing
+    - Tag
+    - Color
+    - BarCode
+    - SerialNumber
+    - Manufacturer
+    - ProductionYear
+    - Description
+    - Phase Created
+    - Phase Demolished
+    - Base Constraint
+    - Base Offset
+    - Base is Attached
+    - Base Extension Distance
+    - Top Constraint
+    - Unconnected Height
+    - Top Offset
+    - Top is Attached
+    - Top Extension Distance
+    - Room Bounding
+    - Length
+    - Area
+    - Volume
+    - Related to Mass
+    - View
+    - Source
+    - Structure
+    - Coarse Scale Fill Pattern
+    - Coarse Scale Fill Color
+    - Wrapping at Inserts
+    - Wrapping at Ends
+    - Width
+    - Type Image
+    - Keynote
+    - Model
+    - Type Comments
+    - URL
+    - Structural Material
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Fire Rating
+    - Cost
+    - Function
+    - ThermalTransmittance
+    - Heat Transfer Coefficient (U)
+    - Thermal Resistance (R)
+    - Thermal mass
+    - Absorptance
+    m_Values:
+    - 349607
+    - Walls
+    - Basic Wall
+    - Basic Wall:Wall-Ext__21 Mesta Thermowood Cladding
+    - Project1
+    - No
+    - No
+    - Non-bearing
+    - Wall Centerline
+    - 2WiOfY5wnD9OEq5ECYPhwX
+    - <None>
+    - 
+    - 
+    - Basic Wall:Wall-Ext__21 Mesta Thermowood Cladding:516378
+    - Basic Wall:Wall-Ext__21 Mesta Thermowood Cladding
+    - 914 mm
+    - Wall-Ext__21 Mesta Thermowood Cladding
+    - No
+    - Yes
+    - No
+    - 516378
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - New Construction
+    - None
+    - Foundation
+    - 0 mm
+    - No
+    - 0 mm
+    - Unconnected
+    - 222 mm
+    - 0 mm
+    - No
+    - 0 mm
+    - Yes
+    - 4610 mm
+    - "1.019 m\xB2"
+    - "0.021 m\xB3"
+    - No
+    - '{3D}'
+    - Project1_{3D}
+    - 
+    - 
+    - 
+    - Do not wrap
+    - None
+    - 21 mm
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - <By Category>
+    - 
+    - 
+    - 
+    - 
+    - 0.00
+    - Exterior
+    - "0.0000 W/(m\xB2\xB7K)"
+    - "0.0000 W/(m\xB2\xB7K)"
+    - "0.0000 (m\xB2\xB7K)/W"
+    - 0.00 kJ/K
+    - 0.1
+--- !u!1 &8494995024578231075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7673379549265212029}
+  - component: {fileID: 2542123577748300676}
+  - component: {fileID: 6501192211918831167}
+  - component: {fileID: 4492435714035074685}
+  m_Layer: 0
+  m_Name: Basic Wall Basic Wall_Wall-Ext__21 Mesta Thermowoo... (6)(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7673379549265212029
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8494995024578231075}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -2.1768675, y: 0.222, z: -7.7541337}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7005634175400579363}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2542123577748300676
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8494995024578231075}
+  m_Mesh: {fileID: 4300000, guid: 834322a98fe395346b0f8577acefa7b1, type: 2}
+--- !u!23 &6501192211918831167
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8494995024578231075}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d114f9d517961fb4291e6ea2809b3324, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4492435714035074685
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8494995024578231075}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 834322a98fe395346b0f8577acefa7b1, type: 2}

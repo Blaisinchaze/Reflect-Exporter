@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5164414336251420896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2076374860281347597}
+  - component: {fileID: 1854929073750185608}
+  - component: {fileID: 93120430361679937}
+  - component: {fileID: 8637526092188367052}
+  m_Layer: 0
+  m_Name: Doors_ExtSgl_5:1010x2110mm:414120 [316312]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2076374860281347597
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5164414336251420896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: -1}
+  m_LocalPosition: {x: -1.0098667, y: 0, z: -0.40337503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9004352895122920319}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1854929073750185608
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5164414336251420896}
+  m_Mesh: {fileID: 4300000, guid: 6969ebd9cb610a64e833e8d64a1f921c, type: 2}
+--- !u!23 &93120430361679937
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5164414336251420896}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 9b7a0aa20d69ffd4f88f82016b2d795d, type: 2}
+  - {fileID: 2100000, guid: 83a5827161dd8d8489b8311fc9e54a24, type: 2}
+  - {fileID: 2100000, guid: ea5991da5ee14d242892b78910d06f2e, type: 2}
+  - {fileID: 2100000, guid: d8f570fe1dc581f419ba4d31fbf3a0ec, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8637526092188367052
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5164414336251420896}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 6969ebd9cb610a64e833e8d64a1f921c, type: 2}
+--- !u!1 &6084066809437450938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9004352895122920319}
+  - component: {fileID: 8479033593833689915}
+  m_Layer: 0
+  m_Name: 1010x2110mm _ Doors_ExtSgl_5_1010x2110mm [363814]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9004352895122920319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6084066809437450938}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2076374860281347597}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8479033593833689915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6084066809437450938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Host Id
+    - Level
+    - Sill Height
+    - Head Height
+    - IfcGUID
+    - Image
+    - Comments
+    - Frame Material
+    - Frame Type
+    - Finish
+    - Mark
+    - Phase Created
+    - Phase Demolished
+    - View
+    - Source
+    - Type IfcGUID
+    - Type Image
+    - Keynote
+    - Model
+    - Manufacturer
+    - Type Comments
+    - URL
+    - Description
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Rough Width
+    - Rough Height
+    - Thickness
+    - Width
+    - Height
+    - Operation
+    - Construction Type
+    - Fire Rating
+    - Cost
+    - Function
+    - NameOverride
+    - ObjectTypeOverride
+    - Reference
+    - Tag
+    - IsExternal
+    - ThermalTransmittance
+    - Color
+    - BarCode
+    - SerialNumber
+    - ModelReference
+    - ProductionYear
+    - OmniClass Number
+    - OmniClass Title
+    - Code Name
+    - Define Thermal Properties by
+    - Analytic Construction
+    - Heat Transfer Coefficient (U)
+    - Thermal Resistance (R)
+    - Solar Heat Gain Coefficient
+    - Visual Light Transmittance
+    m_Values:
+    - 349579
+    - Doors
+    - Doors_ExtSgl_5:1010x2110mm
+    - Doors_ExtSgl_5:1010x2110mm
+    - Project1
+    - 348828
+    - Ground Floor (No Finish)
+    - 0 mm
+    - 0 mm
+    - 0OovpR51z1jO40LmrJ8PNE
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 6
+    - New Construction
+    - None
+    - '{3D}'
+    - Project1_{3D}
+    - 0OovpR51z1jO40LmrJ8PNE
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 47
+    - 0 mm
+    - 0 mm
+    - 0 mm
+    - 0 mm
+    - 0 mm
+    - SINGLE_SWING_LEFT
+    - 
+    - 
+    - 0.00
+    - Interior
+    - Doors_ExtSgl_5:1010x2110mm:414120
+    - Doors_ExtSgl_5:1010x2110mm
+    - 1010x2110mm
+    - 414120
+    - Yes
+    - "3.7021 W/(m\xB2\xB7K)"
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - Schematic Type
+    - <None>
+    - "0.0000 W/(m\xB2\xB7K)"
+    - "0.0000 (m\xB2\xB7K)/W"
+    - 0
+    - 0

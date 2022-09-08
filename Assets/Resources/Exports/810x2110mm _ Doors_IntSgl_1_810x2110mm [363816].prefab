@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1506239271492678802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6172411853874181366}
+  - component: {fileID: 2490296908247334054}
+  m_Layer: 0
+  m_Name: 810x2110mm _ Doors_IntSgl_1_810x2110mm [363816]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6172411853874181366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506239271492678802}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 805596322389083618}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2490296908247334054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506239271492678802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Host Id
+    - Level
+    - Sill Height
+    - Head Height
+    - IfcGUID
+    - Image
+    - Comments
+    - Frame Material
+    - Frame Type
+    - Finish
+    - Mark
+    - Phase Created
+    - Phase Demolished
+    - View
+    - Source
+    - Type IfcGUID
+    - Type Image
+    - Keynote
+    - Model
+    - Manufacturer
+    - Type Comments
+    - URL
+    - Description
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Rough Width
+    - Rough Height
+    - Thickness
+    - Width
+    - Height
+    - Operation
+    - Construction Type
+    - Fire Rating
+    - Cost
+    - Function
+    - NameOverride
+    - ObjectTypeOverride
+    - Reference
+    - Tag
+    - IsExternal
+    - ThermalTransmittance
+    - Color
+    - BarCode
+    - SerialNumber
+    - ModelReference
+    - ProductionYear
+    - OmniClass Number
+    - OmniClass Title
+    - Code Name
+    - Define Thermal Properties by
+    - Analytic Construction
+    - Heat Transfer Coefficient (U)
+    - Thermal Resistance (R)
+    - Solar Heat Gain Coefficient
+    - Visual Light Transmittance
+    m_Values:
+    - 349602
+    - Doors
+    - Doors_IntSgl_1:810x2110mm
+    - Doors_IntSgl_1:810x2110mm
+    - Project1
+    - 349590
+    - Ground Floor
+    - 0 mm
+    - 0 mm
+    - 2Muuiq38rFXfCUU56HHqZo
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 8
+    - New Construction
+    - None
+    - '{3D}'
+    - Project1_{3D}
+    - 2Muuiq38rFXfCUU56HHqZo
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 49
+    - 0 mm
+    - 0 mm
+    - 0 mm
+    - 0 mm
+    - 0 mm
+    - SINGLE_SWING_RIGHT
+    - 
+    - 
+    - 0.00
+    - Interior
+    - Doors_IntSgl_1:810x2110mm:477954
+    - Doors_IntSgl_1:810x2110mm
+    - 810x2110mm
+    - 477954
+    - No
+    - "3.7021 W/(m\xB2\xB7K)"
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - Schematic Type
+    - <None>
+    - "0.0000 W/(m\xB2\xB7K)"
+    - "0.0000 (m\xB2\xB7K)/W"
+    - 0
+    - 0
+--- !u!1 &4443487624464584589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 805596322389083618}
+  - component: {fileID: 2438358726967246864}
+  - component: {fileID: 8288862460320880332}
+  - component: {fileID: 7905208482371574849}
+  m_Layer: 0
+  m_Name: Doors_IntSgl_1:810x2110mm:477954 [333515]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &805596322389083618
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443487624464584589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: -1}
+  m_LocalPosition: {x: -0.81, y: 0, z: -0.079624996}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6172411853874181366}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2438358726967246864
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443487624464584589}
+  m_Mesh: {fileID: 4300000, guid: d97e916f5ef2864438fe68f5280e746f, type: 2}
+--- !u!23 &8288862460320880332
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443487624464584589}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 806a876148fdd8e48b5df60ae95efec1, type: 2}
+  - {fileID: 2100000, guid: 83a5827161dd8d8489b8311fc9e54a24, type: 2}
+  - {fileID: 2100000, guid: 9b7a0aa20d69ffd4f88f82016b2d795d, type: 2}
+  - {fileID: 2100000, guid: ea5991da5ee14d242892b78910d06f2e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7905208482371574849
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443487624464584589}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: d97e916f5ef2864438fe68f5280e746f, type: 2}

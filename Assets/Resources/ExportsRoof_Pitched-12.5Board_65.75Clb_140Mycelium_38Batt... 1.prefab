@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3618453707398363440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2588477536828099656}
+  - component: {fileID: 6855329669394678833}
+  m_Layer: 0
+  m_Name: ExportsRoof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batt... 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2588477536828099656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3618453707398363440}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 930516768958589452}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6855329669394678833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3618453707398363440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Host Id
+    - Slope
+    - Elevation from Level
+    - Moves With Nearby Elements
+    - Room Bounding
+    - IfcGUID
+    - Image
+    - Comments
+    - Mark
+    - Phase Created
+    - Phase Demolished
+    - View
+    - Source
+    - Type Image
+    - Keynote
+    - Model
+    - Manufacturer
+    - Type Comments
+    - URL
+    - Description
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Cost
+    - NameOverride
+    - ObjectTypeOverride
+    - Reference
+    - Tag
+    - Roughness
+    - IsExternal
+    - ThermalTransmittance
+    - PitchAngle
+    - OmniClass Number
+    - OmniClass Title
+    - Code Name
+    m_Values:
+    - 333589
+    - Roofs
+    - Basic Roof:Roof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batten_38Batten:512794
+    - Basic Roof:Roof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batten_38Batten:512794
+    - Project1
+    - -1
+    - "18.00\xB0"
+    - 0 mm
+    - No
+    - Yes
+    - 2SrIYXMyv1sh3HTcZLHYje
+    - <None>
+    - 
+    - 
+    - New Construction
+    - None
+    - '{3D}'
+    - Project1_{3D}
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 0.00
+    - Basic Roof:Roof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batten_38Batten:512794
+    - Basic Roof:Roof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batten_38Batten
+    - Roof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batten_38Batten
+    - 512794
+    - 914 mm
+    - Yes
+    - "0.1338 W/(m\xB2\xB7K)"
+    - "1031.32\xB0"
+    - 
+    - 
+    - 
+--- !u!1 &7714165438803970168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 930516768958589452}
+  - component: {fileID: 2702757388759503110}
+  - component: {fileID: 3844344251952763991}
+  - component: {fileID: 1247554131786273190}
+  m_Layer: 0
+  m_Name: Roof_Pitched-12.5Board_65.75Clb_140Mycelium_38Batt...(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &930516768958589452
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7714165438803970168}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.6493835, y: -2.363247, z: -2.1768672}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2588477536828099656}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2702757388759503110
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7714165438803970168}
+  m_Mesh: {fileID: 4300000, guid: ad9c1c27664beae4e8cc6cff0b36f497, type: 2}
+--- !u!23 &3844344251952763991
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7714165438803970168}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6ffdaf3ec1adc914586f626de647b0d2, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1247554131786273190
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7714165438803970168}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: ad9c1c27664beae4e8cc6cff0b36f497, type: 2}

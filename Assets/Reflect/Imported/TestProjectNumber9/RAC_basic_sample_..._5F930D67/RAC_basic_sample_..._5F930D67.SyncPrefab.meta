@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: db2dd85ccb932c14384522e5b847c8fd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f488ea0f1e5ec1f45a401a0e4b986db1, type: 3}
+  materialRemaps:
+  - syncMaterialName: SH_Metal - Steel_[494352]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Stainless Steel 1_[696740]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Iron, Cast_[704014]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Finishes - Interior - Gypsum Wall Board_[232857]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Default Wall_[24]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Wood - Medium Brown_[984397]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Stainless_[984398]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass - Transparent_[983578]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Leather - Tan_[980944]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Herman Miller - Finish 47 Trivalent Chrome_[728905]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: SH_resin Floor_[395161]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Default-Material
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass_[26]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: SH_Aluminum, Anodized Black_[386106]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Wood_Walnut black_[269499]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Finishes - Exterior - Timber Cladding_[198374]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Finishes - Interior - Plasterboard_[198369]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass - SolarWorld - Tempered Glass_[772432]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - SolarWorld - BackSheet - White_[776787]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - SolarWorld - Support Framing - Silver_[772435]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Porcelain_[285364]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Frame_[232682]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door - Panel_[232683]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Concrete - Cast In Situ_[711728]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Ceramic Dish_[994146]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Paint Finish - Dark Gray, Matte_[232859]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - TOTO - Chrome - Polished_[697737]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Epoxy Resin - TOTO - 61 Angelic White_[698369]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Herman Miller - Seat Fabric 8T07 Crossing Pumpkin_...
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Herman Miller - Veneer OU Walnut_[726638]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Herman Miller - Veneer UX Walnut on Cherry_[808743]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Herman Miller - Veneer Z5 Maple_[805576]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Herman Miller - Finish PA Polished Aluminum_[808701]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Concrete - Cast-in-Place Concrete_[218358]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal_[684483]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal 2_[684546]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal 1_[684487]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Rubber_[680101]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Silver Aluminium_[677432]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Black Glass_[677451]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Stainless Steel_[137436]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: CL Concrete_ panels_[600660]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Concrete, Cast In Situ_[523]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Gypsum Wall Board_[423]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Roofing - Metal Standing Seam_[232858]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Steel - 345 MPa_[509467]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: "Tankworks - Colorbond\xAE - Pale Eucalypt\xAE_[778053]"
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Juice_[996807]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass - Crystal Wine Glass_[995304]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Acetal Resin, Black_[688385]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Grass_[490603_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Cleansteel_[678541]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Black Plastic_[678542]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Terrazzo_[690038]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Concrete, Sand_Cement Screed_[581376]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Cooper Industries - Aluminum_[749032]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - Aluminum_[470743]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Lighting_[678560]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Buttons_[672524]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Plinth_[672675]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Fascia_[672526]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Logo_[672519]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Main body_[672517]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Default_[23]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Earth_[519_ds]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Structure - Timber Joist_Rafter Layer_[185148]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Carpet (1)_[713090]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Roofing - Asphalt_[711781]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Steel-Kohler-NA-Stainless_[211306]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass - Aalto - White Paint_[993163]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Site - Hardcore_[581406]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Metal - TOTO - Enameled - 01 Cotton_[288295]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Plastic - TOTO - 01 Cotton_[288294]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: TV - Black_[985577]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: TV - Screen_[985578]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: TV - Glass_[985568]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass, White, High Luminance_[802433]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Chrome-Kohler-CP-Polished_Chrome_[212929]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Chair Fabric_[732646]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Chair wood_[732645]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Black panel_[672521]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Door_[672522]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Glass, Clear Glazing_[123311]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Clean Steel_[680100]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Black Glass Pan_[680098]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Plastic_[102856]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Flower_[986695]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Stem_[986691]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Red Vase_[986696]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Aluminum_Green_[993161]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Water_[628403]
+    remappedMaterial: {instanceID: 0}
+  - syncMaterialName: Green Glass_[993159]
+    remappedMaterial: {instanceID: 0}

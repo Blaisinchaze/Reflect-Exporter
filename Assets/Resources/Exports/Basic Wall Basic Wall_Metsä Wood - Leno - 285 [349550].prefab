@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4379244849428624785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7064890854896296675}
+  - component: {fileID: 1993795124631705219}
+  - component: {fileID: 1182122869030043241}
+  - component: {fileID: 2523628056247748366}
+  m_Layer: 0
+  m_Name: "Basic Wall Basic Wall_Mets\xE4 Wood - Leno - 285 [349550](Clone)"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7064890854896296675
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4379244849428624785}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -162.99774, y: 0, z: -38.117195}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3091017955666801725}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1993795124631705219
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4379244849428624785}
+  m_Mesh: {fileID: 4300000, guid: c8870f1691eb7f147816c89bdb085c14, type: 2}
+--- !u!23 &1182122869030043241
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4379244849428624785}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: cf7ec5cb1347f6246b2789802edee85e, type: 2}
+  - {fileID: 2100000, guid: 91a6700e96ba7e143a043558bc5bcedf, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2523628056247748366
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4379244849428624785}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: c8870f1691eb7f147816c89bdb085c14, type: 2}
+--- !u!1 &6251969763776533743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3091017955666801725}
+  - component: {fileID: 1967081439752450680}
+  m_Layer: 0
+  m_Name: "Basic Wall Basic Wall_Mets\xE4 Wood - Leno - 285 [349550]"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3091017955666801725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6251969763776533743}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7064890854896296675}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1967081439752450680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6251969763776533743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - Structural
+    - Enable Analytical Model
+    - Structural Usage
+    - Location Line
+    - IfcGUID
+    - Image
+    - Comments
+    - Mark
+    - NameOverride
+    - ObjectTypeOverride
+    - Roughness
+    - Reference
+    - ExtendToStructure
+    - IsExternal
+    - LoadBearing
+    - Tag
+    - Color
+    - BarCode
+    - SerialNumber
+    - Manufacturer
+    - ProductionYear
+    - Description
+    - Phase Created
+    - Phase Demolished
+    - Base Constraint
+    - Base Offset
+    - Base is Attached
+    - Base Extension Distance
+    - Top Constraint
+    - Unconnected Height
+    - Top Offset
+    - Top is Attached
+    - Top Extension Distance
+    - Room Bounding
+    - Length
+    - Area
+    - Volume
+    - Related to Mass
+    - View
+    - Source
+    - Structure
+    - Coarse Scale Fill Pattern
+    - Coarse Scale Fill Color
+    - Wrapping at Inserts
+    - Wrapping at Ends
+    - Width
+    - Type Image
+    - Keynote
+    - Model
+    - Type Comments
+    - URL
+    - Structural Material
+    - Assembly Description
+    - Assembly Code
+    - Type Mark
+    - Fire Rating
+    - Cost
+    - Function
+    - ThermalTransmittance
+    - Heat Transfer Coefficient (U)
+    - Thermal Resistance (R)
+    - Thermal mass
+    - Absorptance
+    m_Values:
+    - 349550
+    - Walls
+    - Basic Wall
+    - "Basic Wall:Mets\xE4 Wood - Leno - 285"
+    - Project1
+    - No
+    - No
+    - Non-bearing
+    - Wall Centerline
+    - 1QHLwyD0zEwBbITaizrTsl
+    - <None>
+    - 
+    - 
+    - "Basic Wall:Mets\xE4 Wood - Leno - 285:349340"
+    - "Basic Wall:Mets\xE4 Wood - Leno - 285"
+    - 305 mm
+    - "Mets\xE4 Wood - Leno - 285"
+    - No
+    - No
+    - No
+    - 349340
+    - n/a
+    - Please record at commissioning
+    - Please record at commissioning
+    - "Mets\xE4 Wood"
+    - 2015
+    - Leno 285
+    - New Construction
+    - None
+    - Ground Floor (No Finish)
+    - 0 mm
+    - No
+    - 0 mm
+    - Unconnected
+    - 3000 mm
+    - 0 mm
+    - No
+    - 0 mm
+    - Yes
+    - 2380 mm
+    - "7.140 m\xB2"
+    - "2.035 m\xB3"
+    - No
+    - '{3D}'
+    - Project1_{3D}
+    - 
+    - 
+    - 
+    - Do not wrap
+    - None
+    - 285 mm
+    - <None>
+    - 
+    - 
+    - 
+    - 
+    - <By Category>
+    - 
+    - 
+    - 
+    - 
+    - 0.00
+    - Interior
+    - "0.0000 W/(m\xB2\xB7K)"
+    - "0.0000 W/(m\xB2\xB7K)"
+    - "0.0000 (m\xB2\xB7K)/W"
+    - 0.00 kJ/K
+    - 0.1

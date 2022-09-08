@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &860894696771703506
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4769720890086733055}
+  - component: {fileID: 5826366372753774806}
+  m_Layer: 0
+  m_Name: 3D View {3D} [200375]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4769720890086733055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860894696771703506}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1302127793490007609}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5826366372753774806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860894696771703506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03da02c118ca234eb63e5f72601d742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: 
+  value: 
+  createParameterFromInspector: 0
+  parameters:
+    m_Keys:
+    - Id
+    - Category
+    - Family
+    - Type
+    - Document
+    - View Template
+    - View Name
+    - Dependency
+    - Title on Sheet
+    - View Scale
+    - 'Scale Value    1:'
+    - Detail Level
+    - Parts Visibility
+    - Crop View
+    - Crop Region Visible
+    - Annotation Crop
+    - Visibility/Graphics Overrides
+    - Graphic Display Options
+    - Far Clip Active
+    - Far Clip Offset
+    - Phase Filter
+    - Phase
+    - Scope Box
+    - Discipline
+    - Show Hidden Lines
+    - Default Analysis Display Style
+    - Rendering Settings
+    - Section Box
+    - Locked Orientation
+    - Projection Mode
+    - Eye Elevation
+    - Target Elevation
+    - Camera Position
+    - None
+    - Sun Path
+    - View
+    - Source
+    m_Values:
+    - 200375
+    - Views
+    - 3D View
+    - 3D View
+    - Project1
+    - 
+    - '{3D}'
+    - Independent
+    - 
+    - ' 1 : 100'
+    - 100
+    - Fine
+    - Show Original
+    - No
+    - No
+    - No
+    - 
+    - 
+    - No
+    - 304800 mm
+    - Show All
+    - New Construction
+    - None
+    - Architectural
+    - By Discipline
+    - None
+    - 
+    - No
+    - No
+    - Orthographic
+    - 3138 mm
+    - 450 mm
+    - Adjusting
+    - -1
+    - No
+    - '{3D}'
+    - Project1_{3D}
+--- !u!1 &2928816164301781100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1302127793490007609}
+  - component: {fileID: 5075754055993033105}
+  m_Layer: 0
+  m_Name: 3D View {3D} [200375](Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1302127793490007609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2928816164301781100}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4769720890086733055}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5075754055993033105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2928816164301781100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3970b7816f5cbad42a086e7f04d7c24c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  label: '{3D}'
+  orthographic: 1
+  aspect: 0
+  size: 0
+  fov: 0
+  near: 0.1
+  far: 1000
+  top: 202.03981
+  left: -340.90533
+  bottom: -237.31154
+  right: 406.87238
